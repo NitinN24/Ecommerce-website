@@ -7,5 +7,3 @@
 - Part4: About Page.
 - Part5: Contact Us.
 - Part6: Ecommerce Shopping Cart.
-
- 
